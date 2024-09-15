@@ -1,0 +1,12 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="import" href="/mnt/sysassets/system_widget.defs" />
+
+    <symbol id="icon-template">
+      <g id="icon" display="none">
+          <image id="icon-img" href="icon-bubble.png" width="40" height="40" />
+      </g>
+    </symbol>
+  </defs>
+</svg>

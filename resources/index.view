@@ -1,0 +1,35 @@
+<svg class="background">
+  <image id="imageBackground" />
+
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+  <use class="icon" href="#icon-template" width="100%" height="100%" />
+</svg>
